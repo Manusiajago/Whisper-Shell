@@ -14,7 +14,8 @@ Replace `your_Gemini_key` and `your_elevenlabs_key` with your OpenAI and ElevenL
 
 Install the required Python libraries:
 ```bash
-pip install openai elevenlabs pyaudio wave keyboard faster_whisper numpy torch 
+pip install elevenlabs pyaudio wave keyboard faster_whisper numpy torch
+ 
 
 ```
 
