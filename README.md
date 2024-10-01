@@ -1,7 +1,7 @@
 Seamless and real-time voice interaction with AI.  
 Uses **faster_whisper** and **ElevenLabs** input streaming for low-latency responses to spoken input.
 
-**[🎥 Watch a Demo Video](demo.gif)** 
+**[🎥 Watch a Demo Video](./demo.gif)** 
 
 
 ## 🛠 Setup:
