@@ -9,8 +9,8 @@ import pygame
 
 # Konstanta untuk script
 CHUNK_SIZE = 1024  # Ukuran chunk untuk dibaca/ditulis pada setiap waktu
-XI_API_KEY = "sk_edc265442891c54353092293473e2ff279c89477993c5f3e"  # Ganti dengan API key ElevenLabs Anda
-VOICE_ID = "MF3mGyEYCl7XYWbV9V6O"  # Ganti dengan ID suara yang Anda inginkan
+XI_API_KEY = "sk_56ee4f0b1214c02693f0b637ed4be4f524c6220529770d14"  # Ganti dengan API key ElevenLabs Anda
+VOICE_ID = "ThT5KcBeYPX3keUQqHPh"  # Ganti dengan ID suara yang Anda inginkan
 GEMINI_API_KEY = "AIzaSyBLLo6MrFeC8HvPondbNdovTjah7r7HogA"  # Ganti dengan API key Gemini Anda
 
 # Set lingkungan
