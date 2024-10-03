@@ -8,7 +8,7 @@ Uses **faster_whisper** and **ElevenLabs** input streaming for low-latency respo
 
 ### 1. API Keys:
 
-Replace `your_Gemini_key` and `your_elevenlabs_key` with your OpenAI and ElevenLabs API key values in the code.
+Replace `your_Gemini_key` and `your_elevenlabs_key` with your GeminiAI and ElevenLabs API key values in the code.
 
 ### 2. Dependencies:
 
